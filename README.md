@@ -23,6 +23,6 @@ Senior Year Project of Bachelors degree, NUST Pakistan
 https://www.facebook.com/precis.veine
 
 
-The project is coded in Python, and the code is available in Appendix of the Project Report
+•	The project is coded in Python, and the code is available in appendix of the Project Report
 
-Copyrights protected under MIT Lisence
+•	This project is licensed under the terms of the MIT license

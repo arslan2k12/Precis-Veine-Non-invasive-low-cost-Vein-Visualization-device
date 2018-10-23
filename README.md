@@ -21,3 +21,8 @@ Senior Year Project of Bachelors degree, NUST Pakistan
 •	Achieved 19% better results than naked eye
 
 https://www.facebook.com/precis.veine
+
+
+The project is coded in Python, and the code is available in Appendix of the Project Report
+
+Copyrights protected under MIT Lisence

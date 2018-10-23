@@ -3,12 +3,6 @@
 Senior Year Project of Bachelors degree, NUST Pakistan
 
 
-•	Selected among top 15 projects in IEEE EMBS ISC 2016 Design Competition, Ottawa, Canada (couldn't attend final round due to visa issues)
-
-
-•	Awarded Rector’s Gold Medal for Best Senior Year Project
-
-
 •	Designed low-cost stand mounted device for imaging subcutaneous veins in non-invasive way
 
 
@@ -24,5 +18,12 @@ https://www.facebook.com/precis.veine
 
 
 •	The project is coded in Python, and the code is available in appendix of the Project Report
+
+
+•	Selected among top 15 projects in IEEE EMBS ISC 2016 Design Competition, Ottawa, Canada (couldn't attend final round due to visa issues)
+
+
+•	Awarded Rector’s Gold Medal for Best Senior Year Project
+
 
 •	This project is licensed under the terms of the MIT license
